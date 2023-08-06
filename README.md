@@ -37,4 +37,5 @@ Feel free to explore the code, modify the hyperparameters, or use your own datas
 
 ## Author
 
-This Crop Yield Predictor project is authored by [Samadrita_Kar].
+This Crop Yield Predictor project is authored by
+# Samadrita_Kar.
