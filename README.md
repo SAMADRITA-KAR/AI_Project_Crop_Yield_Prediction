@@ -1,5 +1,4 @@
 # AI_Project_Crop_Yield_Prediction
-# Crop Yield Predictor Project
 
 This is a Crop Yield Predictor project that aims to predict the suitable crops for different weather and soil conditions. The project involves data analysis, visualization, and machine learning techniques to make crop yield predictions based on various factors.
 
@@ -38,4 +37,4 @@ Feel free to explore the code, modify the hyperparameters, or use your own datas
 
 ## Author
 
-This Crop Yield Predictor project is authored by [Your Name].
+This Crop Yield Predictor project is authored by [Samadrita_Kar].
